@@ -1,2 +1,2 @@
 # Horiseon Marketing
-[visit my website](https://mroahu.github.io/Horiseon-Marketing/)
+[![screenshot](assets/images/screenshot.png)](https://mroahu.github.io/Horiseon-Marketing/)
